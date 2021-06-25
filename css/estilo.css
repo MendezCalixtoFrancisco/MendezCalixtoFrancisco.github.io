@@ -1,19 +1,24 @@
 html{
-	background-color:darkseagreen;
+	background-color:#60ad5e;
 }
 header{
-	background-color:darkgreen;
+	background-color:#005005;
+	margin-top: 10px;
+	margin-left: 400px;
+	margin-right: 400px;
   }
   #Titulo{
-	margin: auto;
+	
 	text-align: center;
-	font-family: 'Pacifico', cursive;
+	font: oblique bold 100% cursive;
+	color: whitesmoke;
+	
   }
   
  
 nav{
  
-  background-color:#17181C;
+  background-color:#2e7d32;
   text-align: center;
 }
 
@@ -37,5 +42,19 @@ nav ul li a {
 }
 
 nav ul li a:hover{
-  background-color: #929fb3;
+  background-color: #60ad5e;
 }
+
+section{
+	background-color: #005005;
+	margin-top: 10px;
+	margin-left: 400px;
+	margin-right: 750px;
+}
+#Parrafo1{
+	background-color: cornsilk;
+	 border-width: 10px;
+	 border-color: #005005;
+	border-style: solid;
+	
+	}
