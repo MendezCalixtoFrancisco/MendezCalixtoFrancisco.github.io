@@ -125,9 +125,13 @@ h3{
 	border-style: solid;
 }
 #Glosario{
+	font-family: cursive;
 	text-align: left;
 	background-color: ghostwhite;
 	border-width: 10px;
 	 border-color:#005005;
 	border-style: solid;
+}
+.Palabra{
+	font: oblique bold 120% cursive;
 }
