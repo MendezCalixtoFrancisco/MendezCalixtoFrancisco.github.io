@@ -57,11 +57,15 @@ section{
 	width: 65%;
 	height:  auto;
 	float: left;
+	background-color: white;
+	text-align: center;
 	
 }
-#Cuento{
-	background-color: cornsilk;
-		
+
+	
+    	
+	text-align: justify;
+   
 }
 #imagen{
 	margin-top: 2%;
