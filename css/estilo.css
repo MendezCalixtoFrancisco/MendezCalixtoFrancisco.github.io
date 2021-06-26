@@ -69,7 +69,8 @@ section{
 	font-family: cursive;
 }    	
 .Comentario{
-	
+	font-style: oblique;
+	vertical-align: sub;
 }
    
 
