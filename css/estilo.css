@@ -1,11 +1,14 @@
 html{
 	background-color:#60ad5e;
+	width: 1000px;
+
+
 }
 header{
 	background-color:#005005;
 	margin-top: 10px;
-	margin-left: 400px;
-	margin-right: 400px;
+	margin-left: 200px;
+	margin-right: 40px;
   }
   #Titulo{
 	
@@ -48,10 +51,10 @@ nav ul li a:hover{
 section{
 	background-color: #005005;
 	margin-top: 10px;
-	margin-left: 400px;
-	margin-right: 750px;
+	margin-left: 200px;
+	margin-right: 400px;
 }
-#Parrafo1{
+p.Parrafo{
 	background-color: cornsilk;
 	 border-width: 10px;
 	 border-color: #005005;
