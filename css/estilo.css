@@ -83,6 +83,7 @@ section{
 		
 }
 #referencias{
+	color: ghostwhite;
 	margin-top: 2%;
 	background-color: #2e7d32;
 	margin-bottom: 3%;
@@ -90,4 +91,18 @@ section{
 	 border-color:#005005;
 	border-style: solid;
 	font-style:italic;
+}
+h2{
+	color: ghostwhite;
+}
+h3{
+	color: ghostwhite;
+	font: oblique bold;
+	margin-top: 2%;
+	background-color: #2e7d32;
+	margin-bottom: 3%;
+	border-width: 10px;
+	 border-color:#005005;
+	border-style: solid;
+	
 }
