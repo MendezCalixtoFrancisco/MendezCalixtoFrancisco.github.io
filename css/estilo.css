@@ -135,3 +135,11 @@ h3{
 .Palabra{
 	font: oblique bold 120% cursive;
 }
+#MasLink{
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	font-size: 25px;
+	padding: 1%;
+}
