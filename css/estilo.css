@@ -1,4 +1,7 @@
-html{
+body{
+	text-align: center;
+    margin-left: auto;
+	margin-right: auto;
 	background-color:#60ad5e;
 	width: 1000px;
 
@@ -6,9 +9,9 @@ html{
 }
 header{
 	background-color:#005005;
-	margin-top: 10px;
-	margin-left: 200px;
-	margin-right: 40px;
+	margin-top: 2%;
+	margin-left: auto;
+	margin-right: auto;
   }
   #Titulo{
 	
@@ -33,7 +36,7 @@ nav ul{
 
 nav ul li{
 	float: left;
-	margin-top: 20px;
+	margin-top: 5%;
 }
 
 nav ul li a {
@@ -41,7 +44,7 @@ nav ul li a {
 	font-weight: bold;
 	text-decoration: none;
 	font-size: 20px;
-	padding: 15px;
+	padding: 1%;
 }
 
 nav ul li a:hover{
@@ -50,14 +53,9 @@ nav ul li a:hover{
 
 section{
 	
-	margin-top: 10px;
-	width: 420px;
-	height: 300px;
-	
-	margin-left: 200px;
-	margin-right: 20px;
-	
-
+	margin-top: 2%;
+	width: 65%;
+	height:  auto;
 	float: left;
 	
 }
@@ -68,9 +66,15 @@ p.Parrafo{
 	border-style: solid;	
 }
 #imagen{
-	margin-top: 10px;
-	
+	margin-top: 2%;
+	border-width: 10px;
+	 border-color: white;
+	border-style: solid;
+		
+}
+p.Dialogos{
 	background-color: cornsilk;
-	
-	
+	 border-width: 10px;
+	 border-color: #005005;
+	border-style: solid;	
 }
