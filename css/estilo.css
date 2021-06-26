@@ -118,5 +118,7 @@ h3{
 #disqus_thread{
 	
 	background-color: ghostwhite;
-	
+	border-width: 10px;
+	 border-color:#005005;
+	border-style: solid;
 }
